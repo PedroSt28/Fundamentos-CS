@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ExerciciosSimples/ExerciciosSimples.csproj" Id="d0ef8cd2-208d-4ce4-9e52-2d472070bc06" />
+  <Project Path="../Exercicio_de_Repetição/Exercicio_de_Repetição.csproj" Id="85c300d1-cc80-47df-a044-525fd00a69e2" />
+  <Project Path="fundamentosC#.csproj" />
+</Solution>

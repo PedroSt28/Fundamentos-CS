@@ -1,0 +1,15 @@
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\bin\Debug\net10.0\Exercicio_de_Repetição.exe
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\bin\Debug\net10.0\Exercicio_de_Repetição.deps.json
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\bin\Debug\net10.0\Exercicio_de_Repetição.runtimeconfig.json
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\bin\Debug\net10.0\Exercicio_de_Repetição.dll
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\bin\Debug\net10.0\Exercicio_de_Repetição.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.AssemblyInfoInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.AssemblyInfo.cs
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.csproj.CoreCompileInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.dll
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\refint\Exercicio_de_Repetição.dll
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercicio_de_Repetição.genruntimeconfig.cache
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\ref\Exercicio_de_Repetição.dll
+C:\Users\46139855870\source\Fundamentos-CS\Exercicio_de_Repetição\obj\Debug\net10.0\Exercici.462722F3.Up2Date
