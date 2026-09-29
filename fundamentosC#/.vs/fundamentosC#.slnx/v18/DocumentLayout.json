@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\fundamentosC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85C300D1-CC80-47DF-A044-525FD00A69E2}|..\\Exercicio_de_Repeti\u00E7\u00E3o\\Exercicio_de_Repeti\u00E7\u00E3o.csproj|c:\\users\\46139855870\\source\\fundamentos-cs\\exercicio_de_repeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6D97757-DD03-4059-B7D1-C6FE01F097C9}|..\\Atividade-emGrupo\\Atividade-emGrupo.csproj|c:\\users\\46139855870\\source\\fundamentos-cs\\atividade-emgrupo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61CABF32-F642-FCEB-6FF1-6D285CAFD9A2}|fundamentosC#.csproj|c:\\users\\46139855870\\source\\fundamentos-cs\\fundamentosc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61CABF32-F642-FCEB-6FF1-6D285CAFD9A2}|fundamentosC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C300D1-CC80-47DF-A044-525FD00A69E2}|..\\Exercicio_de_Repeti\u00E7\u00E3o\\Exercicio_de_Repeti\u00E7\u00E3o.csproj|c:\\users\\46139855870\\source\\fundamentos-cs\\exercicio_de_repeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0EF8CD2-208D-4CE4-9E52-2D472070BC06}|..\\ExerciciosSimples\\ExerciciosSimples.csproj|c:\\users\\46139855870\\source\\fundamentos-cs\\exerciciossimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,18 +36,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Atividade-emGrupo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade-emGrupo\\Program.cs",
+              "ToolTip": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Atividade-emGrupo\\Program.cs",
+              "RelativeToolTip": "..\\Atividade-emGrupo\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:16:02.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Exercicio_de_Repeti\u00E7\u00E3o\\Program.cs",
               "RelativeDocumentMoniker": "..\\Exercicio_de_Repeti\u00E7\u00E3o\\Program.cs",
               "ToolTip": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Exercicio_de_Repeti\u00E7\u00E3o\\Program.cs",
               "RelativeToolTip": "..\\Exercicio_de_Repeti\u00E7\u00E3o\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T00:51:59.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T00:51:59.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\ExerciciosSimples\\Program.cs",
               "RelativeDocumentMoniker": "..\\ExerciciosSimples\\Program.cs",
@@ -52,12 +67,11 @@
               "RelativeToolTip": "..\\ExerciciosSimples\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAqwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T23:37:06.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T23:37:06.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "fundamentosC#.csproj",
               "DocumentMoniker": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\fundamentosC#\\fundamentosC#.csproj",
               "RelativeDocumentMoniker": "fundamentosC#.csproj",
@@ -65,12 +79,11 @@
               "RelativeToolTip": "fundamentosC#.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T23:35:10.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T23:35:10.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\46139855870\\source\\repos\\Exercicios-De-C#-Fixa\u00E7\u00E3o\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\repos\\Exercicios-De-C#-Fixa\u00E7\u00E3o\\Program.cs",
@@ -88,10 +101,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\fundamentosC#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T23:06:45.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T23:06:45.593Z"
             }
           ]
         }

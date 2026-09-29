@@ -1,0 +1,15 @@
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\bin\Debug\net10.0\Atividade-emGrupo.exe
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\bin\Debug\net10.0\Atividade-emGrupo.deps.json
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\bin\Debug\net10.0\Atividade-emGrupo.runtimeconfig.json
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\bin\Debug\net10.0\Atividade-emGrupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\bin\Debug\net10.0\Atividade-emGrupo.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.AssemblyInfoInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.AssemblyInfo.cs
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.csproj.CoreCompileInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\refint\Atividade-emGrupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividade-emGrupo.genruntimeconfig.cache
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\ref\Atividade-emGrupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade-emGrupo\obj\Debug\net10.0\Atividad.51267E23.Up2Date
