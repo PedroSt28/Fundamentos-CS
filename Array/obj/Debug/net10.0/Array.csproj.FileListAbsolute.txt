@@ -1,0 +1,16 @@
+C:\Users\46139855870\source\Fundamentos-CS\Array\bin\Debug\net10.0\Array.exe
+C:\Users\46139855870\source\Fundamentos-CS\Array\bin\Debug\net10.0\Array.deps.json
+C:\Users\46139855870\source\Fundamentos-CS\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+C:\Users\46139855870\source\Fundamentos-CS\Array\bin\Debug\net10.0\Array.dll
+C:\Users\46139855870\source\Fundamentos-CS\Array\bin\Debug\net10.0\Array.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.sourcelink.json
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.dll
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\refint\Array.dll
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\ref\Array.dll
+C:\Users\46139855870\source\Fundamentos-CS\Array\obj\Debug\net10.0\Array.csproj.Up2Date
