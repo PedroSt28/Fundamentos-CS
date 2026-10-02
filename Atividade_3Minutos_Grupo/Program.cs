@@ -155,3 +155,27 @@ for (int i = 0; i < valoresJogos.Length; i++)
 }
 
 Console.WriteLine($"seu jogo com maior preço é o {nomeMaior} custando : {valorMaior}");
+
+//-----------------nivel 7 ------------------------
+
+double[] horasJogo = new double[biblioteca.Length];
+double maisJogado = 0 ;
+string nomeMaisJogado = "";
+
+for (int i = 0; i < biblioteca.Length; i++)
+{
+    Console.WriteLine($"quantas horas voce jogou no jogo {biblioteca[i]}");
+    horasJogo[i] = double.Parse(Console.ReadLine());
+    Console.WriteLine($"no jogo {biblioteca[i]} voce tem {horasJogo}");
+}
+
+for (int i = 0;i < horasJogo.Length; i++)
+{
+   if(horasJogo[i] > maisJogado)
+    {
+        maisJogado = horasJogo[i];
+        nomeMaisJogado = biblioteca[i];
+    }
+}
+Console.WriteLine($"Seu jogo mais jogado é o {nomeMaisJogado} com suas incriveis horas de {maisJogado}");
+

@@ -44,11 +44,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Atividade_3Minutos_Grupo\\Program.cs",
               "RelativeDocumentMoniker": "..\\Atividade_3Minutos_Grupo\\Program.cs",
-              "ToolTip": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Atividade_3Minutos_Grupo\\Program.cs",
-              "RelativeToolTip": "..\\Atividade_3Minutos_Grupo\\Program.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAwJIAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\46139855870\\source\\Fundamentos-CS\\Atividade_3Minutos_Grupo\\Program.cs*",
+              "RelativeToolTip": "..\\Atividade_3Minutos_Grupo\\Program.cs*",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowLMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T22:10:45.721Z"
+              "WhenOpened": "2026-10-01T22:10:45.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +61,8 @@
               "RelativeToolTip": "..\\Array\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T00:16:32.912Z"
+              "WhenOpened": "2026-09-30T00:16:32.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +74,8 @@
               "RelativeToolTip": "..\\Atividade-emGrupo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T22:16:02.785Z"
+              "WhenOpened": "2026-09-29T22:16:02.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +87,8 @@
               "RelativeToolTip": "..\\Exercicio_de_Repeti\u00E7\u00E3o\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T00:51:59.727Z"
+              "WhenOpened": "2026-09-18T00:51:59.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,7 +112,8 @@
               "RelativeToolTip": "fundamentosC#.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T23:35:10.611Z"
+              "WhenOpened": "2026-09-17T23:35:10.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

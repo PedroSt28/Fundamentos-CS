@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade_3Minutos_Grupo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77e95e1600a58a114a48709de9e11c634d99f73d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3153cd234f82522b3ac7b2a670c8b5dd9f4bb564")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade_3Minutos_Grupo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade_3Minutos_Grupo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
