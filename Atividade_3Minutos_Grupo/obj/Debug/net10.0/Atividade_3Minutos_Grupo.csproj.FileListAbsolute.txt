@@ -1,0 +1,16 @@
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\bin\Debug\net10.0\Atividade_3Minutos_Grupo.exe
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\bin\Debug\net10.0\Atividade_3Minutos_Grupo.deps.json
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\bin\Debug\net10.0\Atividade_3Minutos_Grupo.runtimeconfig.json
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\bin\Debug\net10.0\Atividade_3Minutos_Grupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\bin\Debug\net10.0\Atividade_3Minutos_Grupo.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.AssemblyInfoInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.AssemblyInfo.cs
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.csproj.CoreCompileInputs.cache
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.sourcelink.json
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\refint\Atividade_3Minutos_Grupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.pdb
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividade_3Minutos_Grupo.genruntimeconfig.cache
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\ref\Atividade_3Minutos_Grupo.dll
+C:\Users\46139855870\source\Fundamentos-CS\Atividade_3Minutos_Grupo\obj\Debug\net10.0\Atividad.61D3B621.Up2Date
